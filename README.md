@@ -1,2 +1,3 @@
 # MoodCircle
-Issue tracker for Mood Circle
+
+This is for filing bugs and feature requests against Mood Circle.
